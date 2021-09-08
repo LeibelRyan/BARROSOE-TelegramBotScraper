@@ -20,10 +20,10 @@ now it is an obsolete version for my work environment, that's why I post it for 
 ---------------Deploy on Heroku
 
 -Secret keys: 
-	-TOKEN: 123:ABC
+	-TOKEN: 1954490548:AAF-Vj43kktvrDjsb1OhyXb2_Vb2BKtGSYk
 	- MODE: prod
-	- CHAT_ID_FORWARD: -1111
-	- HEROKU_APP_NAME: (HEROKU APP NAME)
+	- CHAT_ID_FORWARD: -1001515574838
+	- HEROKU_APP_NAME: scrapper-bot-for-tg
 '''
 
 
